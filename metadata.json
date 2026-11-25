@@ -1,0 +1,6 @@
+{
+  "name": "Moodbook",
+  "description": "Connect. Share. Earn. Enjoy. Modern social networking and digital reward platform with dual coin wallet, social feed, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
